@@ -252,6 +252,7 @@ Node.prototype.setNext(next) {
 {% endhighlight %}
 
 Lets see how it looks when we use it.
+
 <div id="second-canvas" class="node-canvas"></div>
 <a id="second-btn" class="btn">Add New One</a>
 
