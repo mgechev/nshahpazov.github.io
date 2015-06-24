@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A blog about programming and stuff"
+tags: [blog, javascript, data structures, algorithms, nikola shahpazov]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
